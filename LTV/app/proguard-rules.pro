@@ -8,9 +8,9 @@
 -keepattributes Signature
 
 # Firebase
--keepclassmembers class com.fongmi.android.ltv.bean.Config { *; }
--keepclassmembers class com.fongmi.android.ltv.bean.Channel { *; }
--keepclassmembers class com.fongmi.android.ltv.bean.Config$Core { *; }
+-keepclassmembers class com.wuka.ltv.bean.Config { *; }
+-keepclassmembers class com.wuka.ltv.bean.Channel { *; }
+-keepclassmembers class com.wuka.ltv.bean.Config$Core { *; }
 
 # tvbus
 -keep class com.tvbus.engine.** { *; }

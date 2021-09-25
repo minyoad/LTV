@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.fongmi.android.ltv"
+        applicationId "com.wuka.ltv"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 104
